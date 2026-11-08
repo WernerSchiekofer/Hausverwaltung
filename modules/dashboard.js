@@ -14,7 +14,7 @@ export function render(state) {
     <section class="hero">
       <div class="hero-copy">
         <p class="eyebrow">Ihr Zuhause auf einen Blick</p>
-        <h1 class="hero-title">Zwei Einheiten.<br /><span>Ein Zuhause.</span></h1>
+        <h1 class="hero-title">Hauzensteiner Str. 45,<br /><span>93173 Wenzenbach</span></h1>
         <p class="hero-description">Zählerstände, laufende Kosten und die faire Verteilung für Ihr Zweifamilienhaus an einem Ort.</p>
         <div class="hero-meta"><span><i class="meta-dot"></i>2 Wohneinheiten</span><span><i class="meta-dot"></i>228 m² Gesamtfläche</span><span><i class="meta-dot"></i>Privat verwaltet</span></div>
       </div>
