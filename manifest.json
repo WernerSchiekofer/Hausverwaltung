@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Hausverwaltung · Zweifamilienhaus",
+  "short_name": "Hausverwaltung",
+  "description": "Zähler, Nebenkosten und Kostenverteilung für Ihr Zweifamilienhaus.",
+  "lang": "de-DE",
+  "start_url": "./#dashboard",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#101919",
+  "theme_color": "#101919",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
